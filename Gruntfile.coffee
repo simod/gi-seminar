@@ -93,11 +93,11 @@ module.exports = (grunt) ->
                         'css/img/**'
                         'css/fonts/**'
                     ]
-                    dest: 'dist/workfoss'
+                    dest: 'dist'
                 },{
                     expand: true
                     src: ['index.html']
-                    dest: 'dist/workfoss'
+                    dest: 'dist'
                     filter: 'isFile'
                 }]
 
