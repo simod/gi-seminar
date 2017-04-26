@@ -10,5 +10,51 @@
   "attr": {
   "data-background": "css/img/bg.jpg"
   }
-}
+},
+[{
+  "filename": "copernicus/intro.md",
+    "attr": {
+    "data-background": "css/img/bg.jpg"
+    }
+  },{
+  "filename": "copernicus/ems.md",
+    "attr": {
+    "data-background": "css/img/bg.jpg"
+    }
+  },{
+  "filename": "copernicus/mapping.md",
+    "attr": {
+    "data-background": "css/img/bg.jpg"
+    }
+  }],
+  [{
+    "filename": "foss_communities/intro.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  }],
+  [{
+    "filename": "git/intro.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  }],
+  [{
+    "filename": "geonode/intro.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  }],
+  [{
+    "filename": "geonode_26/intro.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  }],
+  [{
+    "filename": "new_tools/intro.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  }]
 ]
