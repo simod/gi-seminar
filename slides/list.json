@@ -26,6 +26,11 @@
     "attr": {
     "data-background": "css/img/bg.jpg"
     }
+  },{
+  "filename": "copernicus/mapping-flow.md",
+    "attr": {
+    "data-background": "css/img/bg.jpg"
+    }
   }],
   [{
     "filename": "foss_communities/intro.md",
