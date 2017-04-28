@@ -31,6 +31,21 @@
     "attr": {
     "data-background": "css/img/bg.jpg"
     }
+  },{
+  "filename": "copernicus/timeline.md",
+    "attr": {
+    "data-background": "css/img/bg.jpg"
+    }
+  },{
+  "filename": "copernicus/product-types.md",
+    "attr": {
+    "data-background": "css/img/bg.jpg"
+    }
+  },{
+  "filename": "copernicus/ems-site.md",
+    "attr": {
+    "data-background": "css/img/bg.jpg"
+    }
   }],
   [{
     "filename": "foss_communities/intro.md",
