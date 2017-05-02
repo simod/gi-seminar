@@ -52,6 +52,26 @@
       "attr": {
         "data-background": "css/img/bg.jpg"
       }
+  },{
+    "filename": "foss_communities/intro-2.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "foss_communities/community_tools.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "foss_communities/github.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "foss_communities/github_as_showcase.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
   }],
   [{
     "filename": "git/intro.md",
