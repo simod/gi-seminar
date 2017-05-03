@@ -63,6 +63,26 @@
         "data-background": "css/img/bg.jpg"
       }
   },{
+    "filename": "foss_communities/documentation.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "foss_communities/ml.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "foss_communities/irc.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "foss_communities/github-issues.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
     "filename": "foss_communities/github.md",
       "attr": {
         "data-background": "css/img/bg.jpg"
