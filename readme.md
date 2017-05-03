@@ -75,11 +75,11 @@ copy:
                         'css/img/**'
                         'css/fonts/**'
                     ]
-                    dest: 'dist/foss4git2017'
+                    dest: 'dist'
                 },{
                     expand: true
                     src: ['index.html']
-                    dest: 'dist/foss4git2017'
+                    dest: 'dist'
                     filter: 'isFile'
                 }]
 ```
