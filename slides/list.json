@@ -92,6 +92,11 @@
       "attr": {
         "data-background": "css/img/bg.jpg"
       }
+  },{
+    "filename": "foss_communities/dev_tricks.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
   }],
   [{
     "filename": "git/intro.md",
