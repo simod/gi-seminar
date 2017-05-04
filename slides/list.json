@@ -97,9 +97,44 @@
       "attr": {
         "data-background": "css/img/bg.jpg"
       }
+  },{
+    "filename": "foss_communities/dev_tricks_2.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
   }],
   [{
     "filename": "git/intro.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "git/git-flow.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "git/clone.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "git/commit.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "git/push-pull.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "git/pr.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "git/ideal-pr.md",
       "attr": {
         "data-background": "css/img/bg.jpg"
       }
