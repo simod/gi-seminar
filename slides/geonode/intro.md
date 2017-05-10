@@ -1,1 +1,1 @@
-# GeoNode features. To be made...by you
+# Introduction to GeoNode. To be made...by you

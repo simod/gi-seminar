@@ -46,6 +46,11 @@
     "attr": {
     "data-background": "css/img/bg.jpg"
     }
+  },{
+  "filename": "copernicus/activations-map.md",
+    "attr": {
+    "data-background": "css/img/bg.jpg"
+    }
   }],
   [{
     "filename": "foss_communities/intro.md",
@@ -138,9 +143,39 @@
       "attr": {
         "data-background": "css/img/bg.jpg"
       }
+  },{
+    "filename": "git/howto-pr.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
   }],
   [{
     "filename": "geonode/intro.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "geonode/layers.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "geonode/maps.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "geonode/documents.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "geonode/services.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "geonode/permissions.md",
       "attr": {
         "data-background": "css/img/bg.jpg"
       }
@@ -150,9 +185,39 @@
       "attr": {
         "data-background": "css/img/bg.jpg"
       }
+  },{
+    "filename": "geonode_26/geonode26.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "geonode_26/internals.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "geonode_26/django.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
   }],
   [{
     "filename": "new_tools/intro.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "new_tools/where_to.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "new_tools/tegola.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "new_tools/lsf.md",
       "attr": {
         "data-background": "css/img/bg.jpg"
       }
