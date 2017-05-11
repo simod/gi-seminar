@@ -1,4 +1,4 @@
-# Linux From Scratch (LSF)
+# Linux From Scratch (LFS)
 
 Build your own Linux distribution!
 
