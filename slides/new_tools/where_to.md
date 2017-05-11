@@ -4,4 +4,9 @@
 
 #### Many Django packages are available at Django Packages(https://djangopackages.org/)
 
-Thesis availabe to depict the cloud gis based solutions panorama
+#### GeoNode ecosystem https://github.com/GeoNode
+
+#### Companies developing new apps:
+
+* https://github.com/terranodo
+* https://github.com/boundlessgeo

@@ -200,6 +200,11 @@
       "attr": {
         "data-background": "css/img/bg.jpg"
       }
+  },{
+    "filename": "geonode_26/customize.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
   }],
   [{
     "filename": "new_tools/intro.md",
@@ -218,6 +223,11 @@
       }
   },{
     "filename": "new_tools/lfs.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "new_tools/web-gis-panorama.md",
       "attr": {
         "data-background": "css/img/bg.jpg"
       }
