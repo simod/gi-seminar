@@ -47,13 +47,28 @@
     "data-background": "css/img/bg.jpg"
     }
   },{
-  "filename": "copernicus/activations-map.md",
+  "filename": "copernicus/activation-viewer.md",
+    "attr": {
+    "data-background": "css/img/bg.jpg"
+    }
+  },{
+  "filename": "copernicus/global-atlas.md",
+    "attr": {
+    "data-background": "css/img/bg.jpg"
+    }
+  },{
+  "filename": "copernicus/geonode-syria.md",
     "attr": {
     "data-background": "css/img/bg.jpg"
     }
   }],
   [{
     "filename": "foss_communities/intro.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "foss_communities/why-foss.md",
       "attr": {
         "data-background": "css/img/bg.jpg"
       }
