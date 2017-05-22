@@ -6,6 +6,8 @@
 * Tips and tricks to survive FOSS communities
 * Let's do some work together
 * GeoNode under the hood and 2.6 features
-* New tools to watch out
+* Some final tips and links
 
 #### This presentation is available on line at https://simod.github.io/gi-seminar
+
+#### The source code is here https://github.com/simod/gi-seminar/tree/master

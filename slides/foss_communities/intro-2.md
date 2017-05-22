@@ -9,6 +9,8 @@
 * You code is public
 * You can use on some standard tools
 * You interact with people you don't know
+* You learn from helping people less expert than you
+* You learn from people more expert than you
 
 ### And most important <!-- .element: class="fragment" data-fragment-index="2" -->
 

@@ -561,7 +561,7 @@ body {
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5 {
   font-family: "Archivo Narrow", sans-serif;
   font-weight: 700;
-  color: #0D5B90;
+  color: #3366cc;
   letter-spacing: -0.03em;
   margin: 0.2em 0;
   text-shadow: 0 1px 0 white, 0 1px 4px #312D2E;
@@ -606,13 +606,13 @@ body {
 /******************************************************************************/
 /* line 282, source/theme.scss */
 .reveal a:not(.image) {
-  color: #467A1C;
+  color: #267326;
   text-decoration: none;
 }
 
 /* line 286, source/theme.scss */
 .reveal a:not(.image):hover {
-  color: #0878BE;
+  color: #39ac39;
 }
 
 /******************************************************************************/
