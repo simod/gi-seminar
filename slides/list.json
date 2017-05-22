@@ -37,6 +37,11 @@
     "data-background": "css/img/bg.jpg"
     }
   },{
+  "filename": "copernicus/activations-map.md",
+    "attr": {
+    "data-background": "css/img/bg.jpg"
+    }
+  },{
   "filename": "copernicus/product-types.md",
     "attr": {
     "data-background": "css/img/bg.jpg"
@@ -163,6 +168,16 @@
       "attr": {
         "data-background": "css/img/bg.jpg"
       }
+  },{
+    "filename": "git/summary.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
+  },{
+    "filename": "git/first-pr.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
   }],
   [{
     "filename": "geonode/intro.md",
@@ -206,12 +221,12 @@
         "data-background": "css/img/bg.jpg"
       }
   },{
-    "filename": "geonode_26/internals.md",
+    "filename": "geonode_26/django.md",
       "attr": {
         "data-background": "css/img/bg.jpg"
       }
   },{
-    "filename": "geonode_26/django.md",
+    "filename": "geonode_26/internals.md",
       "attr": {
         "data-background": "css/img/bg.jpg"
       }
@@ -246,5 +261,10 @@
       "attr": {
         "data-background": "css/img/bg.jpg"
       }
-  }]
+  }],{
+  "filename": "final.md",
+    "attr": {
+      "data-background": "css/img/bg.jpg"
+    }
+  }
 ]
