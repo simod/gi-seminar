@@ -261,6 +261,11 @@
       "attr": {
         "data-background": "css/img/bg.jpg"
       }
+  },{
+    "filename": "new_tools/docker_ansible.md",
+      "attr": {
+        "data-background": "css/img/bg.jpg"
+      }
   }],{
   "filename": "final.md",
     "attr": {
