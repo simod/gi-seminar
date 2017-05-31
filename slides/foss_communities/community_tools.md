@@ -3,4 +3,4 @@
 * RTFM! The documentation
 * The mailing lists
 * The instant messaging channel (IRC, Gitter)
-* The GiHub repository (and yes, GitHub issues page)
+* The GitHub repository (and yes, GitHub issues page)
