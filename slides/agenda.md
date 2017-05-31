@@ -1,6 +1,6 @@
 
 
-# Agenda
+# Agenda ,modifica
 
 * An introduction to Copernicus EMS Rapid Mapping
 * Tips and tricks to survive FOSS communities
