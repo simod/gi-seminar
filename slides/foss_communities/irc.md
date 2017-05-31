@@ -6,3 +6,4 @@ Instant messaging tools are often used between team members to quickly get in to
 * IRC(http://www.irchelp.org/)
 * Gitter(https://gitter.im/)
 * Slack(https://slack.com/)
+* Riot (https://riot.im)
